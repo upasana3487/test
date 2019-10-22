@@ -7,4 +7,10 @@ public class Mul implements MultiOperator {
 		return x*y;
 	}
 
+	@Override
+	public int incDec(int z) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
